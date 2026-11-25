@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated manuscript."
+title: "LiteSSMPolypNet: A Controlled Evaluation of Training Augmentation and Test-Time Augmentation for Cross-Dataset Polyp Segmentation with Boundary-Aware Analysis"
+authors:
+  - family-names: Ukwuoma
+    given-names: "Chiagoziem C."
+  - family-names: Kodjiku
+    given-names: "Seth Larweh"
+  - family-names: Aggrey
+    given-names: "Stacy E. B."
+  - family-names: Addai
+    given-names: "Gyarteng E. S."
+  - family-names: Dossa
+    given-names: "Joel V."
+  - family-names: Cai
+    given-names: "Dongsheng"
+repository-code: "ADD_GITHUB_REPOSITORY_URL_AFTER_CREATION"
